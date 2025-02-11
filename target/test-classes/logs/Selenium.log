@@ -568,3 +568,41 @@
 2025-02-11 20:38:16.199 [main] INFO       com.cdn.base.TestBase - Enter postCode value
 2025-02-11 20:38:16.427 [main] INFO       com.cdn.base.TestBase - Clicking Add customer
 2025-02-11 20:38:20.328 [main] INFO       com.cdn.base.TestBase - Browser Closed!!!
+2025-02-11 20:39:23.282 [main] INFO       org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Projects\DataDrivenProject\testng.xml
+
+2025-02-11 20:39:23.332 [main] INFO       com.cdn.base.TestBase - Config file loaded!!!
+2025-02-11 20:39:23.332 [main] INFO       com.cdn.base.TestBase - OR file loaded!!!
+2025-02-11 20:39:27.849 [main] INFO       com.cdn.base.TestBase - Browser lunched!!!
+2025-02-11 20:39:30.561 [main] INFO       com.cdn.base.TestBase - Inside login test!!!
+2025-02-11 20:39:30.941 [main] INFO       com.cdn.base.TestBase - Login succussfully excuted!!!
+2025-02-11 20:39:32.913 [main] INFO       com.cdn.base.TestBase - Clicking add customer button
+2025-02-11 20:39:33.244 [main] INFO       com.cdn.base.TestBase - Enter first value
+2025-02-11 20:39:33.757 [main] INFO       com.cdn.base.TestBase - Enter last value
+2025-02-11 20:39:33.952 [main] INFO       com.cdn.base.TestBase - Enter postCode value
+2025-02-11 20:39:34.194 [main] INFO       com.cdn.base.TestBase - Clicking Add customer
+2025-02-11 20:39:34.920 [main] INFO       com.cdn.base.TestBase - Clicking add customer button
+2025-02-11 20:39:35.103 [main] INFO       com.cdn.base.TestBase - Enter first value
+2025-02-11 20:39:35.278 [main] INFO       com.cdn.base.TestBase - Enter last value
+2025-02-11 20:39:35.474 [main] INFO       com.cdn.base.TestBase - Enter postCode value
+2025-02-11 20:39:35.687 [main] INFO       com.cdn.base.TestBase - Clicking Add customer
+2025-02-11 20:39:40.062 [main] INFO       com.cdn.base.TestBase - Browser Closed!!!
+2025-02-11 22:13:24.380 [main] INFO       org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Projects\DataDrivenProject\testng.xml
+
+2025-02-11 22:13:24.455 [main] INFO       com.cdn.base.TestBase - Config file loaded!!!
+2025-02-11 22:13:24.456 [main] INFO       com.cdn.base.TestBase - OR file loaded!!!
+2025-02-11 22:13:33.264 [main] INFO       com.cdn.base.TestBase - Browser lunched!!!
+2025-02-11 22:13:35.402 [main] INFO       com.cdn.base.TestBase - Inside login test!!!
+2025-02-11 22:13:36.166 [main] INFO       com.cdn.base.TestBase - Login succussfully excuted!!!
+2025-02-11 22:13:37.129 [main] INFO       com.cdn.base.TestBase - Clicking add customer button
+2025-02-11 22:13:37.291 [main] INFO       com.cdn.base.TestBase - Enter first value
+2025-02-11 22:13:37.745 [main] INFO       com.cdn.base.TestBase - Enter last value
+2025-02-11 22:13:38.273 [main] INFO       com.cdn.base.TestBase - Enter postCode value
+2025-02-11 22:13:38.501 [main] INFO       com.cdn.base.TestBase - Clicking Add customer
+2025-02-11 22:13:39.376 [main] INFO       com.cdn.base.TestBase - Clicking add customer button
+2025-02-11 22:13:39.735 [main] INFO       com.cdn.base.TestBase - Enter first value
+2025-02-11 22:13:39.896 [main] INFO       com.cdn.base.TestBase - Enter last value
+2025-02-11 22:13:40.051 [main] INFO       com.cdn.base.TestBase - Enter postCode value
+2025-02-11 22:13:40.377 [main] INFO       com.cdn.base.TestBase - Clicking Add customer
+2025-02-11 22:13:43.803 [main] INFO       com.cdn.base.TestBase - Browser Closed!!!
