@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DataDrivenProject">
+	<listeners>
+		<listener class-name="com.cdn.listeners.CustomListeners" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+	<test name="BankMangerLoginTest">
+		<classes>
+
+			<class name="com.cdn.testcases.BankMangerLoginTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="AddCustomersTest">
+		<classes>
+			<class name="com.cdn.testcases.AddCustomersTest" />
+
+		</classes>
+	</test> <!-- Test -->
+	<test name="OpenAccuntTest">
+		<classes>
+			<class name="com.cdn.testcases.OpenAccuntTest" />
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
