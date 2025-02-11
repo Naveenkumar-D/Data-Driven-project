@@ -47,5 +47,6 @@
 	<classpathentry kind="lib" path="D:/SeleniumRequirments/poi-ooxml-schemas-4.1.0.jar"/>
 	<classpathentry kind="lib" path="D:/SeleniumRequirments/selenium-server-4.27.0.jar"/>
 	<classpathentry kind="lib" path="D:/SeleniumRequirments/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/guice-7.0.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
